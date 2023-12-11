@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ajh-dc-pj/static/css/main.de1791fa.css",
-    "main.js": "/ajh-dc-pj/static/js/main.a7207d63.js",
+    "main.js": "/ajh-dc-pj/static/js/main.8acdcb9e.js",
     "static/media/Ubuntu-Regular.woff2": "/ajh-dc-pj/static/media/Ubuntu-Regular.6ebae6bb2ea04cdead4f.woff2",
     "static/media/UbuntuCondensed-Regular.woff2": "/ajh-dc-pj/static/media/UbuntuCondensed-Regular.e5bce02a514ae8b2ac96.woff2",
     "index.html": "/ajh-dc-pj/index.html",
     "main.de1791fa.css.map": "/ajh-dc-pj/static/css/main.de1791fa.css.map",
-    "main.a7207d63.js.map": "/ajh-dc-pj/static/js/main.a7207d63.js.map"
+    "main.8acdcb9e.js.map": "/ajh-dc-pj/static/js/main.8acdcb9e.js.map"
   },
   "entrypoints": [
     "static/css/main.de1791fa.css",
-    "static/js/main.a7207d63.js"
+    "static/js/main.8acdcb9e.js"
   ]
 }
